@@ -41,3 +41,11 @@ body{
 #sticky-footer {
 	flex-shrink: none;
 }
+
+#index_header{
+	background-color: #adb5bd;
+}
+
+#index_footer{
+	background-color: #adb5bd;
+}
