@@ -28,14 +28,14 @@
 	height: 425px;
 }
 
-.alert-container{
-	position: relative;
-}
+/*.alert-container{
+#	position: relative;
+#}
 
-.alert{
-	position: absolute;
-}
-
+#.alert{
+#	position: absolute;
+#}
+*/
 html,
 body{
 	height: 100%;
